@@ -1,14 +1,5 @@
 Photo Share App Server
 
-Added this line
-
-add another line
-and another one
-
-added in original
-asdf
-
-
 > This is the central backend application for the Photo Share App system
 
 # Table of Contents
